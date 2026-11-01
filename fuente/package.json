@@ -1,0 +1,12 @@
+{
+  "name": "educanarias-redes-fuente",
+  "private": true,
+  "type": "module",
+  "description": "Genera las piezas gráficas de redes de EduCanarias",
+  "scripts": {
+    "generar": "node generar.mjs"
+  },
+  "dependencies": {
+    "playwright": "1.63.0"
+  }
+}
