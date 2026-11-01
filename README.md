@@ -12,6 +12,8 @@ Logos, colores, tipografías, plantillas y textos para montar y llevar las redes
 1. Leer la **[guía de marca](marca/GUIA_DE_MARCA.md)** (10 minutos): logo, colores, tipografías, tono y lo que no se negocia.
 2. Instalar las tipografías de `marca/tipografias/`.
 3. Montar el canal con la lista de abajo.
+4. Para los próximos vídeos: la **[propuesta de tutoriales](youtube/09-tutoriales/LEEME.md)**, con el calendario, un guion
+   por vídeo, cómo grabar y lo que hay que saber del día a día de un docente en Canarias.
 
 ## Qué hay en cada carpeta
 
@@ -32,6 +34,7 @@ youtube/
   06-cortinilla/          entrada de 3,5 s con el logo animado (MP4, sin sonido)
   07-shorts/              portada vertical 1080×1920, de ejemplo y sin texto
   08-videos/              tráiler del canal y Short de «La montaña», con subtítulos y textos
+  09-tutoriales/          propuesta de tutoriales: plan y calendario, guiones, cómo grabar, contexto docente y Shorts
   textos/                 descripción del canal, plantilla de descripción de vídeo, listas y hashtags
 recursos/
   capturas/               capturas de la app (datos ficticios) con fondo transparente
@@ -66,7 +69,8 @@ Todos los archivos de aquí pesan muy por debajo de los límites de YouTube.
 
 ### Cada vídeo nuevo
 
-1. **Cortinilla** al principio (opcional, máx. 3-4 s): `youtube/06-cortinilla/cortinilla-1920x1080.mp4`.
+1. **Cortinilla** justo después de los primeros 10-15 s, no antes (opcional, máx. 3-4 s): `youtube/06-cortinilla/cortinilla-1920x1080.mp4`.
+   Lo que pasa en los primeros segundos decide si alguien se queda; ver `youtube/09-tutoriales/como-grabar.md`.
 2. **Pantalla final** en los últimos 20 s: poner de fondo `pantalla-final-1920x1080.png` y, en Studio → Pantalla final,
    colocar «Vídeo» ×2 y «Suscribirse» encima de los recuadros de `guia-elementos.png`.
 3. **Miniatura**: partir del fondo de su serie (`youtube/04-miniaturas/fondos/`), titular en Newsreader, de 3 a 6

@@ -6,6 +6,8 @@ Cada lista tiene su color de miniatura (el mismo que usa la app para ese tipo de
 Las ideas de vídeo son un punto de partida: todo lo que se cuenta en ellas existe hoy en la app. Antes de grabar algo
 que no esté en esta lista, confirmar con Rayco que la función existe y cómo se llama.
 
+Los guiones de los próximos tutoriales, con su calendario, están en [`../09-tutoriales/`](../09-tutoriales/LEEME.md).
+
 ---
 
 ## 0 · Empieza aquí
