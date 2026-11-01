@@ -117,7 +117,7 @@ Europa occidental). Para instalarlas: doble clic en cada `.ttf` → «Instalar»
 - **Sin jerga de IA ni promesas infladas**: nada de «revolucionario», «mágico», «en segundos», «sin esfuerzo».
   «En minutos» sí, porque es verdad.
 - **Lemas que ya se usan**: «Prepara tus clases con el currículo canario» · «Tú revisas y decides» · «Gratis para
-  empezar · sin tarjeta» · «Clases listas. Domingo libre.» · «El pico más alto de Canarias no es el Teide».
+  empezar · sin tarjeta» · «Clases listas. Domingo libre.»
 
 **Palabras y formas que usamos**: situación de aprendizaje (SA, plural «las SA»), programación didáctica (PD),
 currículo canario, criterios de evaluación, LOMLOE, Pincel, la Consejería. Cursos como «1.º ESO», «4.º Primaria»;
