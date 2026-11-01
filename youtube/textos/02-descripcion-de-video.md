@@ -72,5 +72,3 @@ Título corto + una frase + enlace:
 [Frase gancho, máx. 1 línea]. Empieza gratis en educanarias.app
 #DocentesCanarios #Canarias #LOMLOE
 ```
-
-Texto ya preparado para «La montaña» (`youtube/08-videos/`): ver `youtube/08-videos/LEEME.md`.

@@ -33,7 +33,6 @@ No hace falta grabar nada: se recortan de lo que ya hay.
 | «¿Cómo decides la nota de cada criterio?» (último, mayor o el que más se repite) | El Cuaderno de principio a fin | 2:09 | 30 s |
 | «Tu evaluación, lista para pasarla a Pincel» | El Cuaderno de principio a fin | 2:51 | 20 s |
 | «Informes para las familias, uno por alumno» | El Cuaderno de principio a fin | 3:21 | 30 s |
-| «El pico más alto de Canarias no es el Teide» | Ya hecho: `youtube/08-videos/short-la-montana-9x16.mp4` | — | 24 s |
 
 ## Los que salen de cada tutorial nuevo
 

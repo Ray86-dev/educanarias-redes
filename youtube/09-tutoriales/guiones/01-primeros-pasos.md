@@ -10,11 +10,13 @@
 | **Publicar** | martes 10-XI |
 | **`utm_campaign`** | `primeros-pasos` |
 | **Pantalla final** | «Del examen a las notas» (corrector) y «El Cuaderno de principio a fin» |
+| **Tráiler del canal** | Sí: en cuanto se publique, ponerlo en Personalización → Diseño → «Tráiler del canal» |
 
 ## Para qué sirve
 
-Es **el vídeo que se manda** a cualquiera que pregunte «¿y esto qué es?», y el que todos los demás enlazan en la
-pantalla final. Tiene que dejar claras tres cosas: es para docentes de Canarias, se empieza gratis y sin tarjeta, y
+Es **el vídeo que se manda** a cualquiera que pregunte «¿y esto qué es?», el que todos los demás enlazan en la
+pantalla final y el **tráiler del canal**. Por eso los primeros 30 segundos tienen que funcionar solos: es lo que ve
+quien llega al canal por primera vez. Tiene que dejar claras tres cosas: es para docentes de Canarias, se empieza gratis y sin tarjeta, y
 en unos minutos tienes un material de verdad con los criterios oficiales.
 
 ## Preparar antes de grabar

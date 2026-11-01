@@ -18,7 +18,7 @@ del mundo docente y una receta para grabar.
 
 El canal tiene **dos tutoriales**, «Del examen a las notas» (el corrector, 5:18) y «El Cuaderno de principio a fin»
 (4:56), las listas «Corrección y evaluación» y «Cuaderno del docente» y el banner puesto. Todavía no hay Shorts ni
-tráiler del canal.
+tráiler del canal: el de «La montaña» se descartó, y el tráiler será el tutorial 01, «Primeros pasos».
 
 ### Lo que ya está muy bien (y hay que seguir haciendo)
 
@@ -31,7 +31,7 @@ tráiler del canal.
 - Ordenador y móvil sincronizados en el del corrector: queda muy bien. Pero cuesta mucho montarlo; guardarlo para
   cuando la diferencia entre los dos importe (hacer fotos, usar el Cuaderno en clase).
 
-### Cinco ajustes a los dos vídeos publicados
+### Cuatro ajustes a los dos vídeos publicados
 
 1. **Títulos más cortos, con lo que se busca al principio.** En el móvil se ven unos 60-70 caracteres y los dos
    pasan de 85. Propuesta (se pueden cambiar sin perder nada, llevan pocos días):
@@ -48,15 +48,16 @@ tráiler del canal.
 3. **Primaria también**: las aclaraciones dicen «en la ESO, niveles». En Primaria también se califica con niveles y
    sin números: «En Primaria y ESO, niveles (IN, SU, BI, NT, SB); en Bachillerato, de 0 a 10».
 4. **Pantalla final y tarjetas**: que cada vídeo lleve al otro (si no está hecho ya).
-5. **Subir el tráiler y el Short de «La montaña»** (`youtube/08-videos/`) y poner el tráiler en Personalización →
-   Diseño → «Tráiler del canal».
+
+El **tráiler del canal** (lo que ve quien entra sin estar suscrito) será «Primeros pasos» en cuanto se publique:
+Personalización → Diseño → «Tráiler del canal». Hasta entonces, mejor ninguno.
 
 Cuando haya cuatro o cinco vídeos, ordenar la página del canal en Personalización → Diseño, con una sección por lista,
 en este orden: Empieza aquí, Programación didáctica, Situaciones de aprendizaje, Corrección y evaluación, Cuaderno.
 
 ## Esta semana (2 a 8 de noviembre)
 
-- [ ] Los cinco ajustes de arriba.
+- [ ] Los cuatro ajustes de arriba.
 - [ ] Dos Shorts recortados de los vídeos que ya hay (lista en [`shorts.md`](shorts.md)).
 - [ ] Leer [`contexto-docente.md`](contexto-docente.md) y [`como-grabar.md`](como-grabar.md).
 - [ ] Pedir a Rayco dos cuentas de prueba: una **nueva sin estrenar** (para «Primeros pasos») y una **Pro**.
@@ -71,7 +72,7 @@ falta **para la 1.ª evaluación**, que es lo que preocupa en noviembre y diciem
 |---|---|---|---|---|---|
 | 01 | [Primeros pasos: tu cuenta y tu primera SA](guiones/01-primeros-pasos.md) | Empieza aquí | Gratis | mar 10-XI | Es el vídeo que enlazan todos los demás y el que se manda a quien pregunta qué es esto |
 | 02 | [La sesión de evaluación: notas, informe, acta y plan de refuerzo](guiones/02-sesion-de-evaluacion.md) | Documentos y plantillas | Gratis | mar 17-XI | Las sesiones de la 1.ª evaluación son en diciembre |
-| 03 | [Tu programación didáctica completa, paso a paso](guiones/03-programacion-didactica.md) | Programación didáctica | Pro | mar 24-XI | Lo más buscado y el tema del tráiler. El vídeo «estrella» |
+| 03 | [Tu programación didáctica completa, paso a paso](guiones/03-programacion-didactica.md) | Programación didáctica | Pro | mar 24-XI | Lo más buscado. El vídeo «estrella» |
 | 04 | [Alumnado con NEAE: la prueba adaptada y sus documentos](guiones/04-neae.md) | Cuaderno | Gratis | mar 1-XII | En cada evaluación toca el informe de la adaptación |
 | 05 | [La tarea para la guardia, preparada cuando faltas](guiones/05-tarea-para-la-guardia.md) | Cuaderno | Gratis | mié 9-XII | Corto, cercano y muy compartible, para una semana de mucho lío |
 | 06 | [Cómo hacer una situación de aprendizaje con el currículo canario](guiones/06-situacion-de-aprendizaje.md) | Situaciones de aprendizaje | Gratis | mar 15-XII | En Navidad se preparan las SA del 2.º trimestre |

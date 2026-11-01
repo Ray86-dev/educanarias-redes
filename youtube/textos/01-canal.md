@@ -67,4 +67,4 @@ El `?utm_source=youtube&utm_medium=canal` sirve para saber cuántas altas llegan
 | Personalización → Imagen de perfil | `youtube/01-foto-de-perfil/perfil-800x800.png` |
 | Personalización → Imagen del banner | `youtube/02-banner/banner-2560x1440.png` (o la versión oscura) |
 | Personalización → Marca de agua del vídeo | `youtube/03-marca-de-agua/marca-de-agua-150x150.png`, «Al final del vídeo» o «Todo el vídeo» |
-| Personalización → Diseño → Tráiler del canal (para quien no está suscrito) | `youtube/08-videos/trailer-la-montana-16x9.mp4`, subido antes como vídeo normal |
+| Personalización → Diseño → Tráiler del canal (para quien no está suscrito) | El tutorial «Primeros pasos» (`youtube/09-tutoriales/guiones/01-primeros-pasos.md`), cuando esté publicado. Hasta entonces, ninguno |

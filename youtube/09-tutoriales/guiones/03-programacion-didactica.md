@@ -13,9 +13,8 @@
 
 ## Para qué sirve
 
-La programación didáctica es **lo que más se busca** y lo que más quebraderos de cabeza da, y es el tráiler del canal
-(«El pico más alto de Canarias no es el Teide»). Este es el vídeo «estrella»: el que se enlaza desde el tráiler, desde
-Instagram y desde la web. Tiene que enseñar que la PD sale completa **y que el docente la controla**: la estructura,
+La programación didáctica es **lo que más se busca** y lo que más quebraderos de cabeza da. Este es el vídeo
+«estrella»: el que se enlaza desde Instagram, desde la web y desde «Primeros pasos». Tiene que enseñar que la PD sale completa **y que el docente la controla**: la estructura,
 el orden de las SA, el calendario y cada SA por separado.
 
 ## Preparar antes de grabar

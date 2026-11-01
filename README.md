@@ -33,7 +33,6 @@ youtube/
   05-pantalla-final/      fondo de los últimos 20 s y guía de dónde van los elementos
   06-cortinilla/          entrada de 3,5 s con el logo animado (MP4, sin sonido)
   07-shorts/              portada vertical 1080×1920, de ejemplo y sin texto
-  08-videos/              tráiler del canal y Short de «La montaña», con subtítulos y textos
   09-tutoriales/          propuesta de tutoriales: plan y calendario, guiones, cómo grabar, contexto docente y Shorts
   textos/                 descripción del canal, plantilla de descripción de vídeo, listas y hashtags
 recursos/
@@ -51,8 +50,7 @@ fuente/                   lo que genera todo lo anterior (no hace falta para usa
 | 4 | Personalización → Marca de agua del vídeo | Marca de agua | `youtube/03-marca-de-agua/marca-de-agua-150x150.png` |
 | 5 | Configuración → Canal | País, palabras clave, «no es contenido para niños» | [`youtube/textos/01-canal.md`](youtube/textos/01-canal.md) |
 | 6 | Contenido → Listas | Crear las listas de las series | [`youtube/textos/03-listas-y-series.md`](youtube/textos/03-listas-y-series.md) |
-| 7 | Crear → Subir vídeo | Subir el tráiler y el Short de «La montaña» | [`youtube/08-videos/LEEME.md`](youtube/08-videos/LEEME.md) |
-| 8 | Personalización → Diseño | Tráiler del canal para quien no está suscrito | el vídeo subido en el paso 7 |
+| 7 | Personalización → Diseño | Tráiler del canal para quien no está suscrito: «Primeros pasos», cuando esté publicado (hasta entonces, ninguno) | [`youtube/09-tutoriales/guiones/01-primeros-pasos.md`](youtube/09-tutoriales/guiones/01-primeros-pasos.md) |
 
 ### Medidas de YouTube
 
